@@ -1,7 +1,6 @@
-# LuscombeU_Oikopleura_genome_assemblies
-List of github links for Oikopleura genome assemblies
+# Luscombe unit's _Oikopleura_ genome assemblies
 
-
+List of github links for _Oikopleura_ genome assemblies.
 
 ## North Pacific
 
@@ -30,7 +29,6 @@ List of github links for Oikopleura genome assemblies
 
 - Okinawa OKI2018_I69: <https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_907165135.1> (to which we incorrectly gave the ID OKI2018_I6**8**)…
  
-
-## Non O. dioica
+## Non _O. dioica_
 
 
