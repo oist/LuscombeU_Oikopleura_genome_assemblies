@@ -28,7 +28,7 @@ List of github links for Oikopleura genome assemblies
 
 ## Ryukyu Islands
 
-- Okinawa OKI2018_I69:
+- Okinawa OKI2018_I69: <https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_907165135.1> (to which we incorrectly gave the ID OKI2018_I6**8**)…
  
 
 ## Non O. dioica
