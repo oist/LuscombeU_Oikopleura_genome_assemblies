@@ -10,9 +10,9 @@ List of github links for _Oikopleura_ genome assemblies.
 - Nagasaki NAG1: https://github.com/oist/LuscombeU_NAG1_assembly
 - Kagoshima Shib10: https://github.com/oist/LuscombeU_SHIB10_assembly
 - Aomori AOM5: https://github.com/oist/LuscombeU_AOM5_assembly 
-- Aomori AOM10:
-- Aomori AOM1:
-- Osaka OSK42:
+- Aomori AOM10: https://github.com/oist/LuscombeU_AOM10_assembly
+- Aomori AOM1: https://github.com/oist/LuscombeU_AOM1_assembly
+- Osaka OSK42: https://github.com/oist/LuscombeU_OSK42_assembly
 - Himeji HIM8: https://github.com/oist/LuscombeU_HIM8_assembly
 - Osaka O9:
 - Osaka O3:
@@ -24,6 +24,8 @@ List of github links for _Oikopleura_ genome assemblies.
 ## Europe
 - Barcelona Bar2_p4: https://zenodo.org/records/12913342
 - Barcelona Bar12: https://github.com/oist/LuscombeU_BAR12_assembly
+- Barcelona Bar7:
+- Barcelona BarYellow:
 
 ## Ryukyu Islands
 
