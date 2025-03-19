@@ -19,7 +19,7 @@ List of github links for _Oikopleura_ genome assemblies.
 
 ### USA
 - Oregon ORE5:
-- Alaska Ala_R77:
+- Alaska Ala_R77: https://github.com/oist/LuscombeU_Ala_R77_assembly
 
 ## Europe
 - Barcelona Bar2_p4: https://zenodo.org/records/12913342
