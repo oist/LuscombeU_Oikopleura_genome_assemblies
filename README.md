@@ -23,6 +23,7 @@ List of github links for _Oikopleura_ genome assemblies.
 
 ## Europe
 - Barcelona Bar2_p4: https://zenodo.org/records/12913342
+- Barcelona Bar2_p4 NOVOloci: https://github.com/oist/LuscombeU_Bar2_assembly
 - Barcelona Bar12: https://github.com/oist/LuscombeU_BAR12_assembly
 - Barcelona Bar7: https://github.com/oist/LuscombeU_Bar7_assembly
 - Barcelona BarYellow:
