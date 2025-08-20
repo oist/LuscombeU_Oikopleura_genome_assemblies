@@ -36,7 +36,7 @@ List of github links for _Oikopleura_ genome assemblies.
 - Okinawa M2F1 (trio binning): https://github.com/oist/LuscombeU_M2F1_assembly
 - Okinawa Ishikawa I25 (PacBio 20210317_Sequel2_I25): https://github.com/oist/LuscombeU_I25_assembly
 - Okinawa Itoman ITO41 (PacBio 20210317_Sequel2_ITO41): https://github.com/oist/LuscombeU_ITO41_assembly
-- Okinawa Ishikawa 24.I01: 
+- Okinawa Ishikawa 24.I01: https://github.com/oist/LuscombeU_Ishi24.I01_assembly
  
 ## Non _O. dioica_
 
