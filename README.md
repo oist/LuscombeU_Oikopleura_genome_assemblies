@@ -38,7 +38,7 @@ List of github links for _Oikopleura_ genome assemblies (made with [NOVOLoci](ht
 - Kume M3 (20190612_0517_KUM_M3, 16.6 Gbp, N50	21.7 kbp)
   - Flye assembly KUM-M3-7f (contigs): https://zenodo.org/records/12913342
   - NOVOLoci assembly: https://github.com/oist/LuscombeU_KUM_M3_assembly
-- Amami 15 (20190716_0606_AMA15 4.3	Gbp, N50 13.67 kbp): https://github.com/oist/LuscombeU_AMA15_assembly
+- Amami 15 (20190716_0606_AMA15 4.3	Gbp, N50 13.67 kbp): https://github.com/oist/LuscombeU_AMA-15_assembly
 - Okinawa M2F1 (trio binning): https://github.com/oist/LuscombeU_M2F1_assembly
 - Okinawa Ishikawa I25 (PacBio 20210317_Sequel2_I25): https://github.com/oist/LuscombeU_I25_assembly
 - Okinawa Itoman ITO41 (PacBio 20210317_Sequel2_ITO41): https://github.com/oist/LuscombeU_ITO41_assembly
