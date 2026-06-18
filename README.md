@@ -35,6 +35,7 @@ List of github links for _Oikopleura_ genome assemblies (made with [NOVOLoci](ht
 
 - Okinawa I28 (contig assembly): https://zenodo.org/records/12913342
 - Okinawa OKI2018_I69: <https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_907165135.1> (to which we incorrectly gave the ID OKI2018_I6**8**)…
+- Kume M1 (20190613_0523_KUM_M1, 5.2 Gbp after basecall, N50	14.3 kbp) NOVOLoci assembly to be completed.
 - Kume M3 (20190612_0517_KUM_M3, 16.6 Gbp, N50	21.7 kbp)
   - Flye assembly KUM-M3-7f (contigs): https://zenodo.org/records/12913342
   - NOVOLoci assembly: https://github.com/oist/LuscombeU_KUM_M3_assembly
